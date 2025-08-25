@@ -42,4 +42,13 @@ Users can spawn multiple draggable windows, snap them to screen edges, and enjoy
 ```bash
 git clone https://github.com/yourusername/window-tiler.git
 cd window-tiler
+```
 
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+### 3️⃣ Run
+```bash
+npm run dev
+```
