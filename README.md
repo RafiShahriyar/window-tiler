@@ -29,11 +29,10 @@ Users can spawn multiple draggable windows, snap them to screen edges, and enjoy
 ## 📸 Screenshots / Demos
 (Add your screenshots or demo GIFs here)
 
-- Main interface  
-  ![Main UI Screenshot](#)
+- Demo
+  ![Demo of Window Tiler](./assets/demo.gif)
 
-- Snapping Preview  
-  ![Snapping Demo](#)
+
 
 ---
 
